@@ -1,0 +1,22 @@
+{
+    "name": "hoamaoru/hello-world",
+    "description": "the first composer package",
+    "type": "php",
+    "license": "hoamaoru",
+    "authors": [
+        {
+            "name": "trung",
+            "email": "diepbaotrung94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "hoamaoru\\Hello\\": "src/"
+        }
+    }
+}
+
