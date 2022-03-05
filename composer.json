@@ -2,7 +2,7 @@
     "name": "hoamaoru/hello-world",
     "description": "the first composer package",
     "type": "php",
-    "license": "hoamaoru",
+    "license": "proprietary",
     "authors": [
         {
             "name": "trung",
